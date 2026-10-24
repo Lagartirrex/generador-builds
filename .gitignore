@@ -1,0 +1,4 @@
+# Cache local (no se versiona)
+cache/*
+!cache/.gitignore
+!cache/.htaccess
